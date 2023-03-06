@@ -1,0 +1,8 @@
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\obj\Debug\Perimeters.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\obj\Debug\Perimeters.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\obj\Debug\Perimeters.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\bin\Debug\Perimeters.exe.config
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\bin\Debug\Perimeters.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\bin\Debug\Perimeters.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\obj\Debug\Perimeters.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\InClass3\Perimeters\Perimeters\obj\Debug\Perimeters.pdb
